@@ -21,7 +21,7 @@ ScreenShot of Stress testing Report:
 ![stress3500u20min1](https://github.com/user-attachments/assets/76767220-27bc-4e74-80aa-232f65e4f6b0)
 
 Excel reports on Load and Stress Test:
-https://docs.google.com/spreadsheets/d/1Lk_y5j5Uv9Lcm2ScmARbMpDB8rkF4IDG/edit?usp=drive_link&ouid=105813272865639316259&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1Lk_y5j5Uv9Lcm2ScmARbMpDB8rkF4IDG/edit?usp=sharing&ouid=105813272865639316259&rtpof=true&sd=true
 
 # Task 2 (dmoney.jmx)
 Screenshot of the generated HTML report:
