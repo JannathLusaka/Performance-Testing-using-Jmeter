@@ -1,5 +1,5 @@
 # About this JmeterProject
-In this project we created 2 JMeter collections and then we perfromed performance testing.
+In this project we created 2 JMeter collections and then we perfromed performance testing (Load testing & stress testing).
 
 # Technology Used
 - Apache JMeter
